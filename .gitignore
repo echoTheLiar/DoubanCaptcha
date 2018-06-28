@@ -1,0 +1,9 @@
+*.pyc
+*.log
+*.jpg
+.idea/
+data/
+image/
+log/
+scripts/
+test.py
